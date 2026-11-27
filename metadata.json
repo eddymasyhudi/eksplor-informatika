@@ -1,0 +1,6 @@
+{
+  "name": "Portal Eksplorasi Informatika",
+  "description": "Website profil dan portal e-learning Informatika untuk SMP dan SMA/SMK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
